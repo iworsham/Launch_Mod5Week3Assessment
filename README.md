@@ -26,7 +26,8 @@ Answer the questions below in this README.  Answer these questions as if you are
 
 1. What are roles and claims as they relate to Authentication and Authorization?
 Roles are users who all share the same privledges in a application for example, a web app may have a 'Admin' role where a they have all the privledges the app can offer without any restrictions. Claims are statements about a users identity. Claims are based on personal information, so instead of having certain access based on your role, claims can be based on email or race. For example, most websites ask for age verification, users can have access based on their age depending on the claim policy.
-2. How do cookies play a role in authentication and authorization?
+
+3. How do cookies play a role in authentication and authorization?
    Cookies
 
 4. If asked to implement Auth in a new .NET application, would you use the Identity framework?
